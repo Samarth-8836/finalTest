@@ -1,3 +1,3 @@
 #   Hello there
-This is some text
+THis is some text
 ##  THis is a sub heading
